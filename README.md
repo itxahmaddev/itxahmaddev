@@ -11,28 +11,8 @@
 ---
 
 ## 💫 About Me
+apne jaan ke kiya karna hai jao maru paran
 
-I'm a passionate Software Engineer building **Ai Schooling System** — a multi-tenant school management SaaS platform currently serving **500+ schools** across Pakistan. From day one, I've architected and built the entire ecosystem myself: a **Node.js/Express** backend, a **React (Next.js)** web frontend, a **React Native** mobile app, and a suite of **Electron** desktop tools — all running on **MongoDB Atlas**.
-
-I care about clean architecture, surgical bug fixes over rewrites, and building systems that actually hold up at scale (wildcard subdomains, real-time sockets, offline-friendly mobile apps, self-hosted messaging pipelines — you name it, I've probably built it for this platform).
-
-Beyond the code, I lead a small team and work closely with AI coding agents in my workflow — using them for implementation while I focus on architecture, planning, and review.
-
----
-
-## 🚀 Featured Work — Ai Schooling System Ecosystem
-
-| Module | What it does |
-|---|---|
-| 🏫 **Multi-Tenant SaaS Core** | Wildcard DNS + subdomain-based school isolation (`school.aischoolingsystem.online`), logical tenant separation via `schoolId` |
-| 🚌 **Transport Management** | Driver CRUD, route income reports, student directories, attendance sheet generation |
-| 👁️ **Biometric Attendance (AIface)** | Reverse-engineered device HTTP/JSON-RPC protocol, built full Node.js integration + Electron uploader with connection pooling |
-| 💬 **Real-Time Chat & Push** | Socket.IO (JWT-authed) + WhatsApp-style FCM push notifications, cursor-paginated message store |
-| 📲 **Custom SMS Gateway** | Self-hosted Android-device SMS bridge — backend → Socket.io bridge server → Android `SmsManager` foreground service |
-| 🖥️ **Electron Desktop Suite** | Electronic Pay, Silent Printer, Biometric Uploader — auto-updating via GitHub Releases + Squirrel.Windows |
-| 📱 **React Native Mobile App** | Employee portal, attendance, face registration (ML Kit + Camera Kit), OTA updates via Stallion |
-| 🟢 **WhatsApp Integration** | Baileys-powered messaging engine with anti-ban rate limiting, session pooling, OTP delivery |
-| 🛡️ **Cross-Stack Monitoring** | Sentry across backend, web, and mobile + automated encrypted MongoDB backups to Backblaze B2 |
 
 ---
 
