@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B-Schools%20Served-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Multi--Tenant-SaaS-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack-MERN-orange?style=flat-square" />
 </p>
