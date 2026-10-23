@@ -56,5 +56,5 @@ My flagship product is a school management platform used by **500+ schools acros
 </p>
 
 <p align="center">
-  <i>Building intelligent software, one school at a time. 🏫✨</i>
+  <i>Code is my craft. Scale is my game. Production is my battlefield. ⚡🚀</i>
 </p>
